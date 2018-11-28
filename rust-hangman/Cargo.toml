@@ -1,0 +1,8 @@
+[package]
+name = "rust-hangman"
+version = "0.1.0"
+authors = ["Matej Janjic <matej.janjic@infinum.hr>"]
+
+[dependencies]
+rand = "0.5.3"
+yansi = "0.4.0"
